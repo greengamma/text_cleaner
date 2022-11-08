@@ -1,1 +1,1 @@
-# text_cleaner
+This is a simple app that cleans a .txt file. It converts to upper case, removes stopwords, punctuations, e-mails, special characters, numbers and/or URLs. The cleaned version can be downloaded as a .txt file.
