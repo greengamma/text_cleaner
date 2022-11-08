@@ -1,1 +1,1 @@
-This is a simple Streamlit app that cleans a .txt file. It converts to upper case, removes stopwords, punctuations, e-mails, special characters, numbers and/or URLs. The cleaned version can be downloaded as a .txt file.
+This is a simple Streamlit app that cleans a .txt file. It converts to upper case, removes stopwords, punctuations, e-mails, special characters, numbers and/or URLs. The cleaned version can be downloaded as a .txt file. Big thanks to Jesse E. Agbe.
