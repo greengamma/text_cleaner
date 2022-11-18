@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on René Kumsta, PhD</title>
+    <link>https://greengamma.github.io/portfolio/</link>
+    <description>Recent content in Data Science Portfolio on René Kumsta, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Nov 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://greengamma.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: HedgeInvest</title>
+      <link>https://greengamma.github.io/portfolio/projects/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengamma.github.io/portfolio/projects/project-1/</guid>
+      <description>September 2022: An app predicting the most promising long/short pairs (ratios) based on “mean average percentage error” (MAPE). Extracts S&amp;amp;P 500 Friday closing prices. Creates &amp;gt;250,000 ratios (pairs of stocks). Selects the ratios with a positive trend in the last 6 weeks. Builds and fits the models on the selected data. Models used: ARIMA/SARIMA, FB Prophet, LSTM, CNN Compares model accuracy based on (MAPE). Data upload. ► Tools used: ▸ Link to GitHub repository ▸ Link to presentation on YouTube</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Text Cleaner</title>
+      <link>https://greengamma.github.io/portfolio/projects/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengamma.github.io/portfolio/projects/project-2/</guid>
+      <description>November 2022: A simple Streamlit app that cleans a .txt file. The file can be uploaded. It converts text to upper case, removes stopwords, punctuations, e-mails, special characters, numbers and/or URLs. The cleaned version can be downloaded as a .txt file. ► Tools used: Link to GitHub repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Planets Dashboard</title>
+      <link>https://greengamma.github.io/portfolio/projects/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengamma.github.io/portfolio/projects/project-3/</guid>
+      <description>November 2022: Created a Streamlit app that compares planetary data. Selectable planets: Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune. Selectable metrics: Orbit Distance (km), Equatorial Radius (km), Volume (km³), Mass (kg), Density (g/cm³), Escape Velocity (km/h), Rotation Period (Earth Days), Orbit Period (Earth Years), Mean Orbit Velocity (km/h), Orbit Eccentricity, Orbit Inclination (degrees), Equatorial Inclination (degrees), Mean Temperature (°C), Atmospheric Constituents, Moons, Rings. Source: NASA ► Tools used: Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
