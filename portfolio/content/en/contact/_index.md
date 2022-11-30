@@ -11,4 +11,5 @@ Follow me on these platforms:
 |LinkedIn:    |   |   |   |   |   |https://www.linkedin.com/in/kumsta|
 |GitHub:    |   |   |   |   |   |https://github.com/greengamma|
 |Kaggle:    |   |   |   |   |   |https://www.kaggle.com/greengamma|
+|Blog:    |   |   |   |   |   |http://sequensis.de|
 |Website:    |   |   |   |   |   |https://greengamma.co|
